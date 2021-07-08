@@ -21,7 +21,7 @@ body{
 }
 body:after{
 	background:var(--pg);
-	mix-blend-mode:multiply;
+	mix-blend-mode:soft-light;
 	position:absolute;
 	inset:0;
 	content:'';
