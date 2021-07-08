@@ -15,6 +15,9 @@ body{
 	background:url(images/bg-intro-desktop.png) no-repeat;
 	background-size:cover;
 	position:relative;
+	display:flex;
+	align-items:center;
+	justify-content:center;
 }
 body:after{
 	background:var(--pg);
